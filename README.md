@@ -325,7 +325,14 @@ MULTIMODAL_DATASET_ROOT
                 ├── Scene4
                 └── Scene5
 ```
+## Sample Dataset
 
+The sample dataset used in this work is available for download from Google Drive.
+
+📦 **Sample Dataset Size:** ~37 GB
+
+🔗 **Download Link:**  
+https://drive.google.com/your_link_here
 
 # Benchmark Experiments
 
