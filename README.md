@@ -297,9 +297,9 @@ MULTIMODAL_DATASET_ROOT
                 ├── Scene2
                 ├── Scene3
                 ├── Scene4
-                └── Scene5```
+                └── Scene5
+```
 
----
 
 # Benchmark Experiments
 
@@ -345,4 +345,4 @@ The dataset supports research in:
 * Camera-LiDAR Fusion
 * Camera-Radar Fusion
 
----
+
