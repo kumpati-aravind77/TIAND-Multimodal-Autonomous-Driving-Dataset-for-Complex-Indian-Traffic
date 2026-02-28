@@ -1,6 +1,3 @@
-# TIAND: Multimodal Autonomous Driving Dataset for Complex Indian Traffic
-
-This repository accompanies the paper:
 
 **TIAND – A Large-Scale Multimodal Dataset for Autonomous Driving in Complex Indian Traffic**
 
@@ -347,19 +344,5 @@ The dataset supports research in:
 * Long-range Object Detection
 * Camera-LiDAR Fusion
 * Camera-Radar Fusion
-
----
-
-# Citation
-
-If you use this dataset in your research, please cite:
-
-```
-@article{TIAND2026,
-title={A Large-Scale Multimodal Dataset for Autonomous Driving in Complex Indian Traffic},
-journal={IEEE Intelligent Transportation Systems Conference (ITSC)},
-year={2026}
-}
-```
 
 ---
