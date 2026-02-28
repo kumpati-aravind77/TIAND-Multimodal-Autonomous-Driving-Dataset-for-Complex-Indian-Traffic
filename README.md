@@ -19,13 +19,6 @@ The dataset provides synchronized multimodal sensor data collected across divers
 
 **Figure:** Data collection vehicle equipped with a roof-mounted multimodal sensor platform.
 
-The vehicle is equipped with:
-
-- **6 RGB cameras** providing full surround visual coverage  
-- **128-channel LiDAR sensor** mounted centrally on the roof  
-- **Automotive radar sensors** placed around the vehicle for long-range detection  
-- **Navtech imaging radar** for radar-based perception  
-- **GNSS + IMU system** for localization and vehicle motion estimation  
 
 All sensors are synchronized through a unified data acquisition system.
 
