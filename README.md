@@ -14,7 +14,7 @@ The dataset provides synchronized multimodal sensor data collected across divers
 ## Data Collection Vehicle
 
 <p align="center">
-  <img src="docs/images/data_collection_vehicle.jpg" width="900">
+  <img src="[docs/images/data_collection_vehicle.jpg](https://github.com/kumpati-aravind77/TIAND-Multimodal-Autonomous-Driving-Dataset-for-Complex-Indian-Traffic/blob/main/Docs/images/data_collection_vehicle.jpg)" width="900">
 </p>
 
 **Figure:** Data collection vehicle equipped with a roof-mounted multimodal sensor platform.
