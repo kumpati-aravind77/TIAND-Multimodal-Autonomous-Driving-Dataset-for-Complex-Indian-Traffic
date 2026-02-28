@@ -34,8 +34,7 @@ All sensors are synchronized through a unified data acquisition system.
 </p>
 
 <p align="center">
-<b>Figure:  Representative locations across multiple Indian cities
-where data were collected.</b>
+<b>Figure: Sensor placement and coordinate frames on the data collection vehicle.</b>
 </p>
 
 
