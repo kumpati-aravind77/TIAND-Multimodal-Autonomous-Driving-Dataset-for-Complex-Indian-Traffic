@@ -34,7 +34,7 @@ All sensors are synchronized through a unified data acquisition system.
 ## Sensor Configuration
 
 <p align="center">
-  <img src="docs/images/sensor_configuration.png" width="900">
+  <img src="Docs/images/sensor_configuration.png" width="900">
 </p>
 
 **Figure:** Sensor placement and coordinate frames on the data collection vehicle.
