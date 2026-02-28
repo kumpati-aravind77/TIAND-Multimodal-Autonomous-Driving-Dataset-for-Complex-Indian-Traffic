@@ -17,7 +17,9 @@ The dataset provides synchronized multimodal sensor data collected across divers
   <img src="Docs/images/data_collection_vehicle.jpg" width="900">
 </p>
 
-**Figure:** Data collection vehicle equipped with a roof-mounted multimodal sensor platform.
+<p align="center">
+<i>Figure: Sensor placement and coordinate frames on the data collection vehicle.</i>
+</p>
 
 
 All sensors are synchronized through a unified data acquisition system.
