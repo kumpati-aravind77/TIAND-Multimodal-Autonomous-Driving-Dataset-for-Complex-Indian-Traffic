@@ -32,7 +32,9 @@ All sensors are synchronized through a unified data acquisition system.
   <img src="Docs/images/sensor_configuration.png" width="900">
 </p>
 
-**Figure:** Sensor placement and coordinate frames on the data collection vehicle.
+<p align="center">
+<b>Figure:  Sensor placement and coordinate frames on the data collection vehicle.</b>
+</p>
 
 
 The dataset captures complex real-world scenarios including:
