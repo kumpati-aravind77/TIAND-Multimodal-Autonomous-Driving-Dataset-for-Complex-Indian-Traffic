@@ -18,7 +18,8 @@ The dataset provides synchronized multimodal sensor data collected across divers
 </p>
 
 <p align="center">
-<b>Figure: Sensor placement and coordinate frames on the data collection vehicle.</b>
+<b>Figure: Data collection vehicle equipped with the
+multimodal sensor suite.</b>
 </p>
 
 
