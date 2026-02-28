@@ -11,6 +11,34 @@ The dataset provides synchronized multimodal sensor data collected across divers
 * **5600+ km recorded**
 * **20+ cities**
 * **20,000+ synchronized frames**
+## Data Collection Vehicle
+
+<p align="center">
+  <img src="docs/images/data_collection_vehicle.jpg" width="900">
+</p>
+
+**Figure:** Data collection vehicle equipped with a roof-mounted multimodal sensor platform.
+
+The vehicle is equipped with:
+
+- **6 RGB cameras** providing full surround visual coverage  
+- **128-channel LiDAR sensor** mounted centrally on the roof  
+- **Automotive radar sensors** placed around the vehicle for long-range detection  
+- **Navtech imaging radar** for radar-based perception  
+- **GNSS + IMU system** for localization and vehicle motion estimation  
+
+All sensors are synchronized through a unified data acquisition system.
+
+---
+
+## Sensor Configuration
+
+<p align="center">
+  <img src="docs/images/sensor_configuration.png" width="900">
+</p>
+
+**Figure:** Sensor placement and coordinate frames on the data collection vehicle.
+
 
 The dataset captures complex real-world scenarios including:
 
