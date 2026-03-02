@@ -350,7 +350,7 @@ Baseline experiments are included for perception tasks.
 
 ### LiDAR Detection
 
-* RANSAC Ground Segmentation
+* RANSAC Ground Removal
 * Euclidean Clustering
 
 ### Radar Detection
